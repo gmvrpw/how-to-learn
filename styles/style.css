@@ -1,31 +1,28 @@
+:root {
+  /* цвета */
+  --clr-ntrl-ltr: #ffffff;
+  --clr-ntrl-lt: #f2f2f2;
+  --clr-ntrl-dk: #1f1f1f;
+  --clr-ntrl-dkr: #000000;
+  --clr-brand-1: #2f80ed;
+
+  /* размеры шрифта */
+  --fs-giga: 102px;
+  --fs-mega: 60px;
+  --fs-kilo: 48px;
+  --fs-hecto: 36px;
+  --fs-deka: 24px;
+  --fs-base: 18px;
+
+  /* уровни */
+  --foreground: 5;
+  --middle: 3;
+  --background: 1;
+}
+
 .page {
   min-width: 1100px;
-  /* мы ещё не умеем делать мобильную версию сайта, */
-  /* поэтому выше установлена минимальная ширина страницы */
   max-width: 1600px;
-  /* выше установили ограничение по максимальной ширине */
   margin: 0 auto;
-  /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
-}
-
-.header {
-  height: 100vh;
-  min-height: 600px;
-  max-height: 756px;
-  /* выше установили ограничения для секции */
-}
-
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-}
-
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
 }
