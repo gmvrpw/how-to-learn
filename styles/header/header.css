@@ -27,6 +27,7 @@
 
 .header__title {
   margin: 0;
+  width: 730px;
   line-height: 96px;
   font-size: var(--fs-giga);
   font-weight: 600;
