@@ -27,6 +27,7 @@
 
 .header__title {
   margin: 0;
+  width: 730px;
   line-height: 96px;
   font-size: var(--fs-giga);
   font-weight: 600;
@@ -58,6 +59,9 @@
 }
 
 .header__square-pic {
+  position: absolute;
+  top: 64px;
+  right: 0;
   height: 568px;
   width: 568px;
   background-color: var(--clr-brand-1);
