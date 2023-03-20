@@ -1,0 +1,10 @@
+.digits {
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.digits__subtitle {
+  margin-top: 20px;
+}
