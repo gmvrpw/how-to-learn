@@ -15,13 +15,13 @@
 .table__heading {
   margin: 0;
   line-height: 1.15;
-  font-size: var(--fs-deka);
+  font-size: var(--fs-m);
   font-weight: 600;
 }
 
 .table__text {
   margin: 0;
   line-height: 1.2;
-  font-size: var(--fs-base);
+  font-size: var(--fs-s);
   font-weight: normal;
 }

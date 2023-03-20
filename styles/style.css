@@ -7,12 +7,12 @@
   --clr-brand-1: #2f80ed;
 
   /* размеры шрифта */
-  --fs-giga: 102px;
-  --fs-mega: 60px;
-  --fs-kilo: 48px;
-  --fs-hecto: 36px;
-  --fs-deka: 24px;
-  --fs-base: 18px;
+  --fs-xxxl: 120px;
+  --fs-xxl: 102px;
+  --fs-xl: 60px;
+  --fs-l: 36px;
+  --fs-m: 24px;
+  --fs-s: 18px;
 
   /* уровни */
   --foreground: 5;
