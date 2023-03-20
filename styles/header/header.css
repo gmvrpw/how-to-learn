@@ -29,7 +29,7 @@
   margin: 0;
   width: 730px;
   line-height: 96px;
-  font-size: var(--fs-giga);
+  font-size: var(--fs-xxl);
   font-weight: 600;
   z-index: var(--middle);
 }
@@ -41,7 +41,7 @@
   margin: 0;
   width: 388px;
   line-height: 25px;
-  font-size: var(--fs-base);
+  font-size: var(--fs-s);
   z-index: var(--middle);
 }
 
