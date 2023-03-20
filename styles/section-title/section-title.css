@@ -1,0 +1,6 @@
+.section-title {
+  line-height: 1.15;
+  font-size: var(--fs-mega);
+  margin: 0;
+  font-weight: 600;
+}
