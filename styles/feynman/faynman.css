@@ -12,7 +12,7 @@
   margin: 0;
   width: 648px;
   line-height: 1.15;
-  font-size: 120px;
+  font-size: var(--fs-xxxl);
   font-weight: 600;
   text-align: center;
   z-index: var(--middle);
@@ -21,7 +21,7 @@
 .feynman__subtitle {
   margin: 70px 0 0 0;
   line-height: 51px;
-  font-size: var(--fs-hecto);
+  font-size: var(--fs-l);
   font-weight: normal;
   z-index: var(--middle);
 }
@@ -32,7 +32,7 @@
   right: 48px;
   line-height: 51px;
   color: var(--clr-brand-1);
-  font-size: var(--fs-hecto);
+  font-size: var(--fs-l);
   font-weight: normal;
   z-index: var(--middle);
 }
