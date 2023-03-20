@@ -3,9 +3,6 @@
   --pad-right-header: 0;
   --pad-bottom-header: 30px;
   --pad-left-header: 64px;
-}
-
-.header {
   position: relative;
   display: flex;
   flex-direction: row;
