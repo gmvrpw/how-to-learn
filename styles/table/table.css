@@ -3,10 +3,10 @@
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
+  z-index: var(--middle);
 }
 
 .table__cell {
-  width: 250px;
   display: flex;
   flex-direction: column;
   gap: 20px;
