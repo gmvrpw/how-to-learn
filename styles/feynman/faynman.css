@@ -3,7 +3,7 @@
   box-sizing: border-box;
   padding-top: 100px;
   display: flex;
-  height: 890px;
+  min-height: 890px;
   flex-direction: column;
   align-items: center;
   background: var(--clr-ntrl-lt);
@@ -35,6 +35,7 @@
   color: var(--clr-brand-1);
   font-size: var(--fs-l);
   font-weight: normal;
+  text-decoration: none;
   z-index: var(--middle);
 }
 
