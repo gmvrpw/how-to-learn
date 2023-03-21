@@ -54,5 +54,6 @@
   color: var(--clr-ntrl-ltr);
   font-size: var(--fs-s);
   font-weight: normal;
+  text-decoration: none;
   line-height: 30px;
 }
