@@ -1,0 +1,21 @@
+:root {
+  /* цвета */
+  --clr-ntrl-ltr: #ffffff;
+  --clr-ntrl-lt: #f2f2f2;
+  --clr-ntrl-dk: #1f1f1f;
+  --clr-ntrl-dkr: #000000;
+  --clr-brand-1: #2f80ed;
+
+  /* размеры шрифта */
+  --fs-xxxl: 120px;
+  --fs-xxl: 102px;
+  --fs-xl: 60px;
+  --fs-l: 36px;
+  --fs-m: 24px;
+  --fs-s: 18px;
+
+  /* уровни */
+  --foreground: 5;
+  --middle: 3;
+  --background: 1;
+}
