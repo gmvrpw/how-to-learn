@@ -39,7 +39,7 @@
   z-index: var(--middle);
 }
 
-.feynman__main_illustration {
+.feynman__main-illustration {
   position: absolute;
   left: 0;
   bottom: 0;
