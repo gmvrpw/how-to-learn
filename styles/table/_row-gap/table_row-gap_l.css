@@ -1,3 +1,4 @@
-.table_row-gap_l > .table__cell {
+.table_row-gap_l {
   margin-top: 80px;
+  row-gap: 80px;
 }
