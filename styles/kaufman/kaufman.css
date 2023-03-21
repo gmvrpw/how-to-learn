@@ -4,12 +4,17 @@
   flex-direction: column;
   align-items: center;
   padding: 90px 0;
-  background: var(--clr-ntrl-dkr);
+  background: var(--clr-ntrl-dk);
   overflow: hidden;
+}
+
+.kaufman__title {
+  z-index: var(--middle);
 }
 
 .kaufman__subtitle {
   margin-top: 20px;
+  z-index: var(--middle);
 }
 
 .kaufman__triangle {
@@ -19,4 +24,7 @@
   width: 877px;
   height: 877px;
   z-index: var(--background);
+  background-image: url("../../images/kaufman-triangle.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
