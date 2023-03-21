@@ -44,6 +44,7 @@
 
 .header__link {
   color: var(--clr-brand-1);
+  text-decoration: none;
 }
 
 .header__main-illustration {
@@ -52,6 +53,7 @@
   bottom: 0;
   width: 765px;
   height: 608px;
+  object-fit: cover;
   z-index: var(--background);
 }
 
