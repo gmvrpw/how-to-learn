@@ -22,5 +22,10 @@
 @import "../blocks/digits/digits.css";
 @import "../blocks/feynman/faynman.css";
 @import "../blocks/kaufman/kaufman.css";
+@import "../blocks/resources/resources.css";
+@import "../blocks/resources/__logo/_resource/resources__logo_resource_arzamas.css";
+@import "../blocks/resources/__logo/_resource/resources__logo_resource_n1.css";
+@import "../blocks/resources/__logo/_resource/resources__logo_resource_strelka.css";
+@import "../blocks/resources/__logo/_resource/resources__logo_resource_polka.css";
 @import "../blocks/footer/__column/_content/footer_column_content_copyright.css";
 @import "../blocks/footer/footer.css";
