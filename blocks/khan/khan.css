@@ -59,10 +59,4 @@
   object-position: top;
 }
 
-.khan__buy-link {
-  line-height: 42px;
-  color: var(--clr-brand-1);
-  font-size: var(--fs-m);
-  font-weight: normal;
-  text-decoration: none;
-}
+.khan__buy-link {}

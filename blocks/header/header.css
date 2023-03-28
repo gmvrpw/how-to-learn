@@ -39,10 +39,7 @@
   z-index: var(--middle);
 }
 
-.header__link {
-  color: var(--clr-brand-1);
-  text-decoration: none;
-}
+.header__link {}
 
 .header__main-illustration {
   position: absolute;

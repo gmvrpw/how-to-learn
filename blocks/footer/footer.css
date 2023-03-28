@@ -50,12 +50,5 @@
 }
 
 .footer__column-link {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  color: var(--clr-ntrl-ltr);
-  font-size: var(--fs-xs);
-  font-weight: normal;
-  text-decoration: none;
   line-height: 30px;
 }

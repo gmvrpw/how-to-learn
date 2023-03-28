@@ -1,0 +1,11 @@
+.link {
+  color: var(--clr-brand-1);
+  font-size: var(--fs-m);
+  text-decoration: none;
+  font-weight: normal;
+  opacity: 1;
+  transition: opacity ease-in-out 100ms;
+}
+.link:hover {
+  opacity: 0.5;
+}
