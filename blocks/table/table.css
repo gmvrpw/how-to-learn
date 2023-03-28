@@ -8,23 +8,3 @@
   z-index: var(--middle);
   list-style-type: none;
 }
-
-.table__cell {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-}
-
-.table__heading {
-  margin: 0;
-  line-height: 1.15;
-  font-size: var(--fs-s);
-  font-weight: 600;
-}
-
-.table__text {
-  margin: 0;
-  line-height: 1.2;
-  font-size: var(--fs-xs);
-  font-weight: normal;
-}
