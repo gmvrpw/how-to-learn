@@ -3,6 +3,7 @@
 @import "../blocks/page/page.css";
 @import "../blocks/logo/logo.css";
 @import "../blocks/header/header.css";
+@import "../blocks/rotation/rotation.css";
 @import "../blocks/description/description.css";
 @import "../blocks/two-columns/two-columns.css";
 @import "../blocks/section-title/_theme/section-title_theme_dark.css";
