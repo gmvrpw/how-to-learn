@@ -2,7 +2,7 @@
   margin: 0;
   width: 60%;
   line-height: 24px;
-  font-size: var(--fs-m);
+  font-size: var(--fs-s);
   font-weight: normal;
   text-align: center;
 }

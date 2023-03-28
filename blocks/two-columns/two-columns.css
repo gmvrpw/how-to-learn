@@ -9,7 +9,7 @@
   margin: 0;
   width: 175px;
   line-height: 1.2;
-  font-size: var(--fs-s);
+  font-size: var(--fs-xs);
   font-weight: normal;
   color: var(--clr-brand-1);
 }
@@ -25,7 +25,7 @@
 .two-columns__paragraph {
   margin: 0;
   line-height: 34px;
-  font-size: var(--fs-m);
+  font-size: var(--fs-s);
 }
 
 .two-columns__span-accent {

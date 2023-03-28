@@ -20,7 +20,7 @@
 .cards__title {
   margin: 43px 0 16px 0;
   line-height: 1.15;
-  font-size: var(--fs-m);
+  font-size: var(--fs-s);
   font-weight: 600;
   text-align: center;
   z-index: var(--middle);
@@ -29,7 +29,7 @@
 .cards__description {
   margin: 0;
   line-height: 23px;
-  font-size: var(--fs-s);
+  font-size: var(--fs-xs);
   font-weight: normal;
   text-align: center;
   z-index: var(--middle);

@@ -12,7 +12,7 @@
 
 .khan__author {
   margin: 0;
-  font-size: var(--fs-l);
+  font-size: var(--fs-m);
   line-height: 42px;
   font-weight: normal;
 }
@@ -28,21 +28,21 @@
   margin: 50px 0 36px 0;
   width: 790px;
   line-height: 34px;
-  font-size: var(--fs-m);
+  font-size: var(--fs-s);
   font-weight: normal;
 }
 
 .khan__quote-author {
   margin: 0;
   line-height: 1.15;
-  font-size: var(--fs-m);
+  font-size: var(--fs-s);
   font-weight: 600;
 }
 
 .khan__quote-author-subline {
   margin: 10px 0 68px 0;
   line-height: 1.15;
-  font-size: var(--fs-m);
+  font-size: var(--fs-s);
   font-weight: normal;
 }
 
@@ -62,7 +62,7 @@
 .khan__buy-link {
   line-height: 42px;
   color: var(--clr-brand-1);
-  font-size: var(--fs-l);
+  font-size: var(--fs-m);
   font-weight: normal;
   text-decoration: none;
 }

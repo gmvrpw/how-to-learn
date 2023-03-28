@@ -23,14 +23,14 @@
 .footer__author {
   margin: 18px 0;
   color: var(--clr-ntrl-ltr);
-  font-size: var(--fs-s);
+  font-size: var(--fs-xs);
   line-height: 25px;
 }
 
 .footer__column-heading {
   margin: 0;
   color: var(--clr-ntrl-ltr);
-  font-size: var(--fs-s);
+  font-size: var(--fs-xs);
   font-weight: 600;
   line-height: 30px;
 }
@@ -54,7 +54,7 @@
   flex-direction: row;
   align-items: center;
   color: var(--clr-ntrl-ltr);
-  font-size: var(--fs-s);
+  font-size: var(--fs-xs);
   font-weight: normal;
   text-decoration: none;
   line-height: 30px;

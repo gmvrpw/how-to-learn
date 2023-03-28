@@ -11,8 +11,9 @@
   --fs-xxl: 102px;
   --fs-xl: 60px;
   --fs-l: 36px;
-  --fs-m: 24px;
-  --fs-s: 18px;
+  --fs-m: 30px;
+  --fs-s: 24px;
+  --fs-xs: 18px;
 
   /* уровни */
   --foreground: 5;
