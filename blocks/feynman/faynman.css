@@ -12,28 +12,3 @@
   background-repeat: no-repeat;
   background-size: 867px 637px;
 }
-
-.feynman__title {
-  margin: 0;
-  width: 648px;
-  line-height: 1.15;
-  font-size: var(--fs-xxxl);
-  font-weight: 600;
-  text-align: center;
-  z-index: var(--middle);
-}
-
-.feynman__subtitle {
-  margin: 70px 0 0 0;
-  line-height: 51px;
-  font-size: var(--fs-l);
-  font-weight: normal;
-  z-index: var(--middle);
-}
-
-.feynman__link {
-  position: absolute;
-  top: 50%;
-  right: 48px;
-  z-index: var(--middle);
-}
