@@ -27,5 +27,6 @@
 @import "../blocks/resources/__logo/_resource/resources__logo_resource_n1.css";
 @import "../blocks/resources/__logo/_resource/resources__logo_resource_strelka.css";
 @import "../blocks/resources/__logo/_resource/resources__logo_resource_polka.css";
+@import "../blocks/khan/khan.css";
 @import "../blocks/footer/__column/_content/footer_column_content_copyright.css";
 @import "../blocks/footer/footer.css";
