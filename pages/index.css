@@ -10,6 +10,7 @@
 @import "../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css";
 @import "../blocks/section-subtitle/section-subtitle.css";
 @import "../blocks/techniques/techniques.css";
+@import "../blocks/video/video.css";
 @import "../blocks/cards/cards.css";
 @import "../blocks/table/table.css";
 @import "../blocks/table/_row-gap/table_row-gap_m.css";
