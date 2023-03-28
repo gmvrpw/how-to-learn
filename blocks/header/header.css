@@ -9,6 +9,7 @@
   padding: 30px 0 30px 64px;
   background-color: var(--clr-ntrl-lt);
   box-sizing: border-box;
+  overflow: hidden;
 }
 
 .header__logo {
