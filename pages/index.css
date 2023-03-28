@@ -2,6 +2,11 @@
 @import "../vendor/variables.css";
 @import "../blocks/page/page.css";
 @import "../blocks/logo/logo.css";
+@import "../blocks/link/link.css";
+@import "../blocks/link/_theme/link_theme_dark.css";
+@import "../blocks/link/_size/link_size_xs.css";
+@import "../blocks/link/_size/link_size_m.css";
+@import "../blocks/link/_size/link_size_l.css";
 @import "../blocks/header/header.css";
 @import "../blocks/rotation/rotation.css";
 @import "../blocks/description/description.css";

@@ -35,10 +35,5 @@
   position: absolute;
   top: 50%;
   right: 48px;
-  line-height: 51px;
-  color: var(--clr-brand-1);
-  font-size: var(--fs-l);
-  font-weight: normal;
-  text-decoration: none;
   z-index: var(--middle);
 }
