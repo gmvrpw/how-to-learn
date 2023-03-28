@@ -1,0 +1,37 @@
+.cards {
+  width: 920px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 100px;
+}
+
+.cards__item {
+  padding-top: 60px;
+}
+
+.cards__image {
+  margin: 0 40px;
+  width: 160px;
+  height: 160px;
+  border-radius: 80px;
+  z-index: var(--middle);
+}
+
+.cards__title {
+  margin: 43px 0 16px 0;
+  line-height: 1.15;
+  font-size: var(--fs-m);
+  font-weight: 600;
+  text-align: center;
+  z-index: var(--middle);
+}
+
+.cards__description {
+  margin: 0;
+  line-height: 23px;
+  font-size: var(--fs-s);
+  font-weight: normal;
+  text-align: center;
+  z-index: var(--middle);
+}
+
