@@ -26,12 +26,6 @@
 @import "../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css";
 @import "../blocks/section-subtitle/section-subtitle.css";
 @import "../blocks/techniques/techniques.css";
-@import "../blocks/techniques/__image/techniques__image.css";
-@import "../blocks/techniques/__image/_about/techniques__image_about_attention.css";
-@import "../blocks/techniques/__image/_about/techniques__image_about_competence.css";
-@import "../blocks/techniques/__image/_about/techniques__image_about_interliving.css";
-@import "../blocks/techniques/__image/_about/techniques__image_about_question.css";
-@import "../blocks/techniques/__image/_about/techniques__image_about_recall.css";
 @import "../blocks/techniques/__subtitle/techniques__subtitle.css";
 @import "../blocks/video/video.css";
 @import "../blocks/video/__subtitle/video__subtitle.css";
