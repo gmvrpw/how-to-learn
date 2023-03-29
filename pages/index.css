@@ -54,7 +54,7 @@
 @import "../blocks/table/__cell/_theme/table__cell_theme_dark.css";
 @import "../blocks/digits/digits.css";
 @import "../blocks/digits/__subtitle/digits__subtitle.css";
-@import "../blocks/feynman/faynman.css";
+@import "../blocks/feynman/feynman.css";
 @import "../blocks/feynman/__link/feynman__link.css";
 @import "../blocks/feynman/__title/feynman__title.css";
 @import "../blocks/feynman/__subtitle/feynman__subtitle.css";
@@ -79,12 +79,14 @@
 @import "../blocks/khan/__buy-link/khan__buy-link.css";
 @import "../blocks/khan/__container/khan__container.css";
 @import "../blocks/khan/__quote-author/khan__quote-author.css";
-@import "../blocks/khan/__author-subline/khan__author-subline.css";
+@import "../blocks/khan/__quote-author-subline/khan__quote-author-subline.css";
 @import "../blocks/khan/__book-container/khan__book-container.css";
 @import "../blocks/footer/footer.css";
 @import "../blocks/footer/__author/footer__author.css";
 @import "../blocks/footer/__column/footer__column.css";
-@import "../blocks/footer/__column/_content/footer_column_content_copyright.css";
+@import "../blocks/footer/__column/_content/footer__column_content_copyright.css";
+@import "../blocks/footer/__column/_content/footer__column_content_info.css";
+@import "../blocks/footer/__column/_content/footer__column_content_social.css";
 @import "../blocks/footer/__columns/footer__columns.css";
 @import "../blocks/footer/__social-icon/footer__social-icon.css";
 @import "../blocks/footer/__column-link/footer__column-link.css";
